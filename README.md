@@ -1,56 +1,3 @@
-# Hi, I'm dolyg! 👋
-
-🎓 **Student | Algorithm Enthusiast | EDA Explorer**
-
----
-
-## 🧑‍💻 About Me
-
-- I’m a student who loves exploring algorithms and building fun little tools.
-- My main interests are in **EDA (Electronic Design Automation) tools** and their underlying algorithms.
-- Skilled in **C/C++** and **Python** object-oriented programming, with research and practical experience in EDA partitioning, synthesis, and related algorithms.
-- In my spare time, I enjoy running and keeping my mind sharp through both exercise and problem-solving.
-
----
-
-## 🚀 Top Project
-
-### [Topopart+](https://github.com/dolyg/Topopart_plus)
-> An efficient EDA partitioning algorithm project, focusing on innovation and exploration in the field of electronic design automation.
-
----
-
-## 🛠️ Skills
-
-- **Languages:** C/C++, Python  
-- **Paradigms:** Object-Oriented Programming  
-- **Specialties:** EDA algorithms, partitioning & synthesis, algorithm implementation & optimization  
-
----
-
-## 📌 Other Interesting Projects
-
-- [kahyper_wgy](https://github.com/dolyg/kahyper_wgy)
-- [The-destructive-problem-of-C-n-k-network](https://github.com/dolyg/The-destructive-problem-of-C-n-k-network)
-- [DrcVioPrediction](https://github.com/dolyg/DrcVioPrediction)
-- [oscilloscope_FPGA_show](https://github.com/dolyg/oscilloscope_FPGA_show)
-
----
-
-## 💡 Fun Fact
-
-I love running — it keeps both my body and my mind energized!
-
----
-
-<!--
-If you want to add social links (like LinkedIn or a personal website) in the future, just update here~
--->
-
-Thanks for visiting! ⭐️
-
----
-
 # 你好，我是 dolyg！👋
 
 🎓 **学生 | 算法爱好者 | EDA 探索者**
@@ -101,3 +48,56 @@ Thanks for visiting! ⭐️
 -->
 
 感谢你的访问！⭐️
+
+---
+
+# Hi, I'm dolyg! 👋
+
+🎓 **Student | Algorithm Enthusiast | EDA Explorer**
+
+---
+
+## 🧑‍💻 About Me
+
+- I’m a student who loves exploring algorithms and building fun little tools.
+- My main interests are in **EDA (Electronic Design Automation) tools** and their underlying algorithms.
+- Skilled in **C/C++** and **Python** object-oriented programming, with research and practical experience in EDA partitioning, synthesis, and related algorithms.
+- In my spare time, I enjoy running and keeping my mind sharp through both exercise and problem-solving.
+
+---
+
+## 🚀 Top Project
+
+### [Topopart+](https://github.com/dolyg/Topopart_plus)
+> An efficient EDA partitioning algorithm project, focusing on innovation and exploration in the field of electronic design automation.
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** C/C++, Python  
+- **Paradigms:** Object-Oriented Programming  
+- **Specialties:** EDA algorithms, partitioning & synthesis, algorithm implementation & optimization  
+
+---
+
+## 📌 Other Interesting Projects
+
+- [kahyper_wgy](https://github.com/dolyg/kahyper_wgy)
+- [The-destructive-problem-of-C-n-k-network](https://github.com/dolyg/The-destructive-problem-of-C-n-k-network)
+- [DrcVioPrediction](https://github.com/dolyg/DrcVioPrediction)
+- [oscilloscope_FPGA_show](https://github.com/dolyg/oscilloscope_FPGA_show)
+
+---
+
+## 💡 Fun Fact
+
+I love running — it keeps both my body and my mind energized!
+
+---
+
+<!--
+If you want to add social links (like LinkedIn or a personal website) in the future, just update here~
+-->
+
+Thanks for visiting! ⭐️
